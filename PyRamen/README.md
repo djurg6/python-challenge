@@ -1,6 +1,6 @@
 ## PyRamen (Optional)
 
-![ramen.jpg](Images/ramen.jpg)
+![ramen.jpg](ramen.jpg)
 
 ## Background
 
